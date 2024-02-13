@@ -2,7 +2,7 @@
 Taller Tad
 Profeosor: Jhon corredor 
 Materia: Estrucutras de datos 
-Estudiantes: Harry Sanchez , Andres Galan, Santiago 
+Estudiantes: Harry Sanchez , Andres Galan, Santiago Barrero
   */
 
 #include <iostream>
